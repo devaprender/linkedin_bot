@@ -41,7 +41,7 @@ Vou te ensinar tudo isso [neste curso](http://b.link/GitHub_curso_automacao), sa
 # Mini-Tutorial de como rodar o LinkedIn Bot no seu computador
 
 1. Após ter feito o download dos arquivos vá até a pasta `dist` e clique duas vezes no arquivo `LinkedInBot.exe` para executar o programa.
-2. Para aprender como usar a ferramenta veja as instruções que passo [no vídeo](https://www.youtube.com/watch?v=tpn-2AuLGb0&t=257s). Para qualquer dúvida ou sugestão, mande um [comentário no vídeo](https://www.youtube.com/watch?v=tpn-2AuLGb0&t=257s).
+2. Para aprender como usar a ferramenta veja as instruções que passo [no vídeo](https://www.youtube.com/watch?v=tpn-2AuLGb0). Para qualquer dúvida ou sugestão, mande um [comentário no vídeo](https://www.youtube.com/watch?v=tpn-2AuLGb0).
 3. Esse é um programa gratuito e como tal, não é dado manutenção quando possível.
 
 ---
