@@ -10,6 +10,17 @@ Redes Sociais:
 
 ---
 
+# Imagine se você pudesse:
+
+* **Criar robôs** que trabalham por você?
+* **Usar** a programação ao seu favor?
+* **Economizar** dezenas de horas?
+* **Monetizar** seu conhecimento?
+
+Vou te ensinar tudo isso [neste curso](http://b.link/GitHub_curso_automacao), saiba mais [clicando aqui](http://b.link/GitHub_curso_automacao).
+
+---
+
 # Instruções de como usar esses arquivos:
 
  - Se já usou o github antes já deve saber como fazer o download deste arquivo.
@@ -31,17 +42,10 @@ Redes Sociais:
 
 1. Após ter feito o download dos arquivos vá até a pasta `dist` e clique duas vezes no arquivo `LinkedInBot.exe` para executar o programa.
 2. Para aprender como usar a ferramenta veja as instruções que passo [no vídeo](). Para qualquer dúvida ou sugestão, mande um [comentário no vídeo]().
+3. Esse é um programa gratuito e como tal, não é dado manutenção quando possível.
 
 ---
 
-# Imagine se você pudesse:
-
-* **Criar robôs** que trabalham por você?
-* **Usar** a programação ao seu favor?
-* **Economizar** dezenas de horas?
-* **Monetizar** seu conhecimento?
-
-Vou te ensinar tudo isso [neste curso](http://b.link/GitHub_curso_automacao), saiba mais [clicando aqui](http://b.link/GitHub_curso_automacao).
 
 ---
 
